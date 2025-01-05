@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         Dish dish1 = new Dish("Картошка фрі", 10.5, "Гарнір");
